@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Luis Reyes Miranda 👋
 
-<!--
-**LuisGReyesM/LuisGReyesM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¿Quién eres?
+Prgramador de aplicaciones computaacionales egresado de la Universidad de Playa Ancha el año 2005
 
-Here are some ideas to get you started:
+### ¿De dónde eres?
+Soy de Chile, en específco de la comuna de Valpraíso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ¿A qué te dedicas?
+Me dedico a las asesorías administrativas, además de realizar algunos desarrollos en forma particular.
+
+### ¿Cuál es tu formación?
+Programador de aplicaciones computacionales, además he realizado 2 bootcamp, el primero que hice fue sobre FullStack Java y actulmente estoy terminando un bootcamp de Frontend con VUE
+
+### ¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué deberían contactarte?
+Tengo bastante experiencia en el mundo informático ya sea en soporte, desarrollo y mantención. He trabajando en grandes empresas, asi tmabién como peuqeñas, pero en todas y cada una de ellas, he dado lo mejor de mi para entregar un excelente producto final. Por esto soy uno de los mejores candidatos para ser seleccionado.
+
+### ¿Cómo y a través de qué medios te pueden contactar?
+Pueden contcatarme a través de mi Linkedin https://www.linkedin.com/in/luisreyesmiranda/ o a mi correo electrónico lgreyesmiranda@gmail.com
